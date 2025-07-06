@@ -39,8 +39,8 @@
 | **Database Schema**   | Mongoose schemas                 | [`db-schema.md`](./db-schema.md)                 |
 | **Workflow Diagram**  | Visual flow of app               | [`workflow.md`](./workflow.md)                   |
 | **Middleware Guide**  | Auth, RBAC, optional login, etc. | [`middleware.md`](./middleware.md)               |
-| **Frontend Packages** | React dependency list            | [`packages-frontend.md`](./packages-frontend.md) |
-| **Backend Packages**  | Node.js dependency list          | [`packages-backend.md`](./packages-backend.md)   |
+| **Frontend Packages** | React dependency list            | [`packages-frontend.md`](./frontend.md) |
+| **Backend Packages**  | Node.js dependency list          | [`packages-backend.md`](./backend.md)   |
 
 ---
 
