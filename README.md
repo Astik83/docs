@@ -37,7 +37,7 @@
 | **System Overview**   | Architecture & modules           | [`overview.md`](./overview.md)                   |
 | **API Reference**     | Full route docs                  | [`api-routes.md`](./api/api-routes.md)               |
 | **Database Schema**   | Mongoose schemas                 | [`db-schema.md`](./db-schema)                 |
-| **Workflow Diagram**  | Visual flow of app               | [`workflow.md`](./workflow.md)                   |
+| **Workflow Diagram**  | Visual flow of app               | [`workflow.md`](./workflows.md)                   |
 | **Middleware Guide**  | Auth, RBAC, optional login, etc. | [`middleware.md`](./middleware.md)               |
 | **Frontend Packages** | React dependency list            | [`packages-frontend.md`](./packages/frontend.md) |
 | **Backend Packages**  | Node.js dependency list          | [`packages-backend.md`](./packages/backend.md)   |
