@@ -8,12 +8,12 @@ This document serves as an index of all core data models used in the ShopSphere 
 
 | Model Name     | File                           | Description                                  |
 |----------------|--------------------------------|----------------------------------------------|
-| 👤 User        | [`userMmodel.md`](./userMmodel.md)         | Manages user credentials, roles, and auth    |
-| 🛍️ Product     | [`productMmodel.md`](./productMmodel.md)     | Stores all product-related information       |
-| 🛒 Cart        | [`cartMmodel.md`](./cartMmodel.md)           | Temporary storage for items before checkout  |
-| 📦 Order       | [`orderMmodel.md`](./orderMmodel.md)         | Captures confirmed purchases and status      |
-| 💬 ChatLog     | [`chatMmodel.md`](./chatMmodel.md)           | Logs chatbot questions and responses         |
-| ❤️ HealthLog   | [`healthMmodel.md`](./healthMmodel.md)       | Tracks API health logs (optional)            |
+| 👤 User        | [`userModel.md`](./userModel.md)         | Manages user credentials, roles, and auth    |
+| 🛍️ Product     | [`productModel.md`](./productModel.md)     | Stores all product-related information       |
+| 🛒 Cart        | [`cartModel.md`](./cartModel.md)           | Temporary storage for items before checkout  |
+| 📦 Order       | [`orderModel.md`](./orderModel.md)         | Captures confirmed purchases and status      |
+| 💬 ChatLog     | [`chatModel.md`](./chatModel.md)           | Logs chatbot questions and responses         |
+| ❤️ HealthLog   | [`healthModel.md`](./healthModel.md)       | Tracks API health logs (optional)            |
 
 ---
 
