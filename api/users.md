@@ -1,5 +1,5 @@
 
-````md
+
 # 👤 User Routes — `/api/users`
 
 This document covers all **user-related API endpoints** for authentication, profile management, password reset, and admin-level user management.
