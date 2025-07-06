@@ -1,10 +1,4 @@
-Here is a clean, well-documented **`usermodel.md`** file for your ShopSphere platform, covering all fields, features, and behavior of the user schema — with clear headings, emojis, and security notes.
 
----
-
-### 📄 `usermodel.md`
-
-````md
 # 👤 User Model — `models/userModel.js`
 
 This document describes the structure, fields, and functionality of the `User` model used for authentication, email verification, password reset, and account management in ShopSphere.
