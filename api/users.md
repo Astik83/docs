@@ -1,10 +1,3 @@
-Excellent! Since your `/api/users/login` endpoint returns both `accessToken` and `refreshToken` along with user data, we should update the `users.md` file to reflect this structure clearly.
-
-I'll now improve the **“Login Request” section** and the **“Response Example”** in your `users.md` to exactly match your backend response. I’ll also clarify where tokens are stored (e.g., localStorage or HTTP-only cookies — if applicable), and highlight security aspects.
-
----
-
-### ✅ Final Updated `users.md` (Login Section Refined)
 
 ````md
 # 👤 User Routes — `/api/users`
