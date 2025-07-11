@@ -1,6 +1,6 @@
 # 🛍️ ShopSphere — Full Stack eCommerce Platform(https://shop-sphere-eta-sand.vercel.app/)
 
-> **Production-ready eCommerce solution** featuring secure authentication, AI-powered support, and a full admin panel.
+> **Production-ready eCommerce solution** featuring secure authentication, AI-powered support(not added yet), and a full admin panel.
 > Developed by **Astik Shah** using React, Node.js, and MongoDB.
 
 ---
@@ -22,9 +22,9 @@
 | ---------------------- | ------------------------------------------- | ------------------------------------- |
 | **🔐 Auth System**     | Email OTP, JWT, refresh token rotation      | JWT, bcrypt, Nodemailer               |
 | **🛒 Cart & Checkout** | Smart cart with per-item shipping & fees    | React Context, MongoDB                |
-| **💳 Payments**        | Razorpay payment & webhook verification     | Razorpay SDK, Crypto                  |
+| **💳 Payments**        | Stripe payment                              | Stripe                |
 | **📊 Admin Panel**     | Manage users, orders, products              | React, Mongoose                       |
-| **🤖 AI Chatbot**      | RAG-based AI assistant with fallback to LLM | Groq, DeepSeek API                    |
+| **🤖 AI Chatbot**      | RAG-based AI assistant with fallback to LLM | Groq,                   |
 | **⏳ Auto Cleanup**     | Cron jobs to remove stale/unverified data   | node-cron                             |
 | **🔒 Security**        | RBAC, rate limiting, input sanitization     | Helmet, validator, express-rate-limit |
 
