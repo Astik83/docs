@@ -24,7 +24,7 @@
 | **🛒 Cart & Checkout** | Smart cart with per-item shipping & fees    | React Context, MongoDB                |
 | **💳 Payments**        | Stripe payment                              | Stripe                |
 | **📊 Admin Panel**     | Manage users, orders, products              | React, Mongoose                       |
-| **🤖 AI Chatbot**      | RAG-based AI assistant with fallback to LLM | Groq,                   |
+| **🤖 AI Chatbot**      | RAG-based AI assistant with fallback to LLM | Groq api                   |
 | **⏳ Auto Cleanup**     | Cron jobs to remove stale/unverified data   | node-cron                             |
 | **🔒 Security**        | RBAC, rate limiting, input sanitization     | Helmet, validator, express-rate-limit |
 
