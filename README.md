@@ -1,4 +1,4 @@
-# 🛍️ ShopSphere — Full Stack eCommerce Platform
+# 🛍️ ShopSphere — Full Stack eCommerce Platform(https://shop-sphere-eta-sand.vercel.app/)
 
 > **Production-ready eCommerce solution** featuring secure authentication, AI-powered support, and a full admin panel.
 > Developed by **Astik Shah** using React, Node.js, and MongoDB.
